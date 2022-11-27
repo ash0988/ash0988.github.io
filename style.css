@@ -261,6 +261,7 @@ p {
 	font-size: 4rem;
 	position: relative;
 	color: transparent;
+	font-family: Montserrat, sans-serif;
 	animation: text_reveal 0.5s ease forwards;
 	animation-delay: 1s;
 }
