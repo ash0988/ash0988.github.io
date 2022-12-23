@@ -32,7 +32,7 @@ function detectmob() {
 	 }
    }
    if (detectmob()) {
-	alert("請使用電腦瀏覽本網站以獲得最佳體驗")
+	alert("使用電腦可在本網站獲得更佳的視覺體驗")
    }
 menu_item.forEach((item) => {
 	item.addEventListener('click', () => {
